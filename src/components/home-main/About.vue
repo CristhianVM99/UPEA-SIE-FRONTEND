@@ -27,7 +27,7 @@ const img = RandomImage(institucion.portada);
                         <div class="about-image-gallery">
                             <img
                                 class="main-img-1"
-                                src="images/banner/upeaLogo.png"
+                                src="/images/banner/upeaLogo.png"
                                 alt="About Image"
                                 style="
                                     width: 470px;
